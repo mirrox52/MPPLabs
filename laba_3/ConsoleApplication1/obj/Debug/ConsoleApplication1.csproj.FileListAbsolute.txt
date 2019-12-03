@@ -1,0 +1,18 @@
+C:\Users\Михаил\Desktop\спп\Mutex\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Михаил\Desktop\спп\Mutex\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Михаил\Desktop\спп\Mutex\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Михаил\Desktop\спп\Mutex\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\спп\Mutex\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Михаил\Desktop\спп\Mutex\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\спп\Mutex\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\спп\Mutex\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\спп\Mutex\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\спп\Mutex\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\спп\Mutex\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\спп\Mutex\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
