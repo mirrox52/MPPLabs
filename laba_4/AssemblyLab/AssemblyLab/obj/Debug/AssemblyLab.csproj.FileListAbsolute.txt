@@ -1,0 +1,21 @@
+E:\MPP-labs-master\AssemblyLab\AssemblyLab\bin\Debug\AssemblyLab.exe.config
+E:\MPP-labs-master\AssemblyLab\AssemblyLab\bin\Debug\AssemblyLab.exe
+E:\MPP-labs-master\AssemblyLab\AssemblyLab\bin\Debug\AssemblyLab.pdb
+E:\MPP-labs-master\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.csprojAssemblyReference.cache
+E:\MPP-labs-master\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.csproj.CoreCompileInputs.cache
+E:\MPP-labs-master\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.exe
+E:\MPP-labs-master\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.pdb
+C:\Мои программы\Учёба\СПП\Лабораторная 4\AssemblyLab\AssemblyLab\bin\Debug\AssemblyLab.exe.config
+C:\Мои программы\Учёба\СПП\Лабораторная 4\AssemblyLab\AssemblyLab\bin\Debug\AssemblyLab.exe
+C:\Мои программы\Учёба\СПП\Лабораторная 4\AssemblyLab\AssemblyLab\bin\Debug\AssemblyLab.pdb
+C:\Мои программы\Учёба\СПП\Лабораторная 4\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.csprojAssemblyReference.cache
+C:\Мои программы\Учёба\СПП\Лабораторная 4\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.csproj.CoreCompileInputs.cache
+C:\Мои программы\Учёба\СПП\Лабораторная 4\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.exe
+C:\Мои программы\Учёба\СПП\Лабораторная 4\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_4\AssemblyLab\AssemblyLab\bin\Debug\AssemblyLab.exe.config
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_4\AssemblyLab\AssemblyLab\bin\Debug\AssemblyLab.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_4\AssemblyLab\AssemblyLab\bin\Debug\AssemblyLab.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_4\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_4\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_4\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_4\AssemblyLab\AssemblyLab\obj\Debug\AssemblyLab.pdb

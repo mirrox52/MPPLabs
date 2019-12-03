@@ -1,0 +1,14 @@
+C:\Мои программы\Учёба\СПП\Лабораторная 4\TestLab\TestLab\bin\Debug\TestLab.exe.config
+C:\Мои программы\Учёба\СПП\Лабораторная 4\TestLab\TestLab\bin\Debug\TestLab.exe
+C:\Мои программы\Учёба\СПП\Лабораторная 4\TestLab\TestLab\bin\Debug\TestLab.pdb
+C:\Мои программы\Учёба\СПП\Лабораторная 4\TestLab\TestLab\obj\Debug\TestLab.csprojAssemblyReference.cache
+C:\Мои программы\Учёба\СПП\Лабораторная 4\TestLab\TestLab\obj\Debug\TestLab.csproj.CoreCompileInputs.cache
+C:\Мои программы\Учёба\СПП\Лабораторная 4\TestLab\TestLab\obj\Debug\TestLab.exe
+C:\Мои программы\Учёба\СПП\Лабораторная 4\TestLab\TestLab\obj\Debug\TestLab.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\4istoDope\СПП\спп Эндрю\Лабораторная 4\TestLab\TestLab\bin\Debug\TestLab.exe.config
+C:\Users\Alexander\Desktop\лабы\5 сем\4istoDope\СПП\спп Эндрю\Лабораторная 4\TestLab\TestLab\bin\Debug\TestLab.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\4istoDope\СПП\спп Эндрю\Лабораторная 4\TestLab\TestLab\bin\Debug\TestLab.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\4istoDope\СПП\спп Эндрю\Лабораторная 4\TestLab\TestLab\obj\Debug\TestLab.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\4istoDope\СПП\спп Эндрю\Лабораторная 4\TestLab\TestLab\obj\Debug\TestLab.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\4istoDope\СПП\спп Эндрю\Лабораторная 4\TestLab\TestLab\obj\Debug\TestLab.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\4istoDope\СПП\спп Эндрю\Лабораторная 4\TestLab\TestLab\obj\Debug\TestLab.pdb
