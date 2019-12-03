@@ -1,0 +1,35 @@
+D:\1. БГУИР\3 курс\5 сем\СПП\laba1\laba_1\laba_1\bin\Debug\laba_1.exe.config
+D:\1. БГУИР\3 курс\5 сем\СПП\laba1\laba_1\laba_1\bin\Debug\laba_1.exe
+D:\1. БГУИР\3 курс\5 сем\СПП\laba1\laba_1\laba_1\bin\Debug\laba_1.pdb
+D:\1. БГУИР\3 курс\5 сем\СПП\laba1\laba_1\laba_1\obj\Debug\laba_1.csprojAssemblyReference.cache
+D:\1. БГУИР\3 курс\5 сем\СПП\laba1\laba_1\laba_1\obj\Debug\laba_1.csproj.CoreCompileInputs.cache
+D:\1. БГУИР\3 курс\5 сем\СПП\laba1\laba_1\laba_1\obj\Debug\laba_1.exe
+D:\1. БГУИР\3 курс\5 сем\СПП\laba1\laba_1\laba_1\obj\Debug\laba_1.pdb
+D:\1. БГУИР\3 курс\5 сем\СПП\laba_1\laba_1\bin\Debug\laba_1.exe.config
+D:\1. БГУИР\3 курс\5 сем\СПП\laba_1\laba_1\bin\Debug\laba_1.exe
+D:\1. БГУИР\3 курс\5 сем\СПП\laba_1\laba_1\bin\Debug\laba_1.pdb
+D:\1. БГУИР\3 курс\5 сем\СПП\laba_1\laba_1\obj\Debug\laba_1.csprojAssemblyReference.cache
+D:\1. БГУИР\3 курс\5 сем\СПП\laba_1\laba_1\obj\Debug\laba_1.csproj.CoreCompileInputs.cache
+D:\1. БГУИР\3 курс\5 сем\СПП\laba_1\laba_1\obj\Debug\laba_1.exe
+D:\1. БГУИР\3 курс\5 сем\СПП\laba_1\laba_1\obj\Debug\laba_1.pdb
+C:\Users\Alexander\Downloads\laba_1\laba_1\bin\Debug\laba_1.exe.config
+C:\Users\Alexander\Downloads\laba_1\laba_1\bin\Debug\laba_1.exe
+C:\Users\Alexander\Downloads\laba_1\laba_1\bin\Debug\laba_1.pdb
+C:\Users\Alexander\Downloads\laba_1\laba_1\obj\Debug\laba_1.csprojAssemblyReference.cache
+C:\Users\Alexander\Downloads\laba_1\laba_1\obj\Debug\laba_1.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Downloads\laba_1\laba_1\obj\Debug\laba_1.exe
+C:\Users\Alexander\Downloads\laba_1\laba_1\obj\Debug\laba_1.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_1\laba_1\bin\Debug\laba_1.exe.config
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_1\laba_1\bin\Debug\laba_1.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_1\laba_1\bin\Debug\laba_1.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_1\laba_1\obj\Debug\laba_1.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_1\laba_1\obj\Debug\laba_1.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_1\laba_1\obj\Debug\laba_1.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_1\laba_1\obj\Debug\laba_1.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_1\laba_1\bin\Debug\laba_1.exe.config
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_1\laba_1\bin\Debug\laba_1.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_1\laba_1\bin\Debug\laba_1.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_1\laba_1\obj\Debug\laba_1.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_1\laba_1\obj\Debug\laba_1.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_1\laba_1\obj\Debug\laba_1.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_1\laba_1\obj\Debug\laba_1.pdb
