@@ -1,0 +1,25 @@
+C:\Users\Михаил\Desktop\спп\Copier\bin\Debug\Copier.exe.config
+C:\Users\Михаил\Desktop\спп\Copier\bin\Debug\Copier.exe
+C:\Users\Михаил\Desktop\спп\Copier\bin\Debug\Copier.pdb
+C:\Users\Михаил\Desktop\спп\Copier\obj\Debug\Copier.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\спп\Copier\obj\Debug\Copier.exe
+C:\Users\Михаил\Desktop\спп\Copier\obj\Debug\Copier.pdb
+D:\3 курс\спп\Copier\bin\Debug\Copier.exe.config
+D:\3 курс\спп\Copier\bin\Debug\Copier.exe
+D:\3 курс\спп\Copier\bin\Debug\Copier.pdb
+D:\3 курс\спп\Copier\obj\Debug\Copier.csprojAssemblyReference.cache
+D:\3 курс\спп\Copier\obj\Debug\Copier.csproj.CoreCompileInputs.cache
+D:\3 курс\спп\Copier\obj\Debug\Copier.exe
+D:\3 курс\спп\Copier\obj\Debug\Copier.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_2\bin\Debug\Copier.exe.config
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_2\obj\Debug\Copier.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_2\obj\Debug\Copier.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_2\bin\Debug\Copier.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_2\bin\Debug\Copier.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\laba_2\obj\Debug\Copier.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_2\bin\Debug\Copier.exe.config
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_2\obj\Debug\Copier.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_2\obj\Debug\Copier.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_2\bin\Debug\Copier.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_2\bin\Debug\Copier.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_2\obj\Debug\Copier.csprojResolveAssemblyReference.cache
