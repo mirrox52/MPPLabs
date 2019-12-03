@@ -1,0 +1,14 @@
+E:\laba5\laba5\bin\Debug\laba5.exe.config
+E:\laba5\laba5\bin\Debug\laba5.exe
+E:\laba5\laba5\bin\Debug\laba5.pdb
+E:\laba5\laba5\obj\x86\Debug\laba5.csprojAssemblyReference.cache
+E:\laba5\laba5\obj\x86\Debug\laba5.csproj.CoreCompileInputs.cache
+E:\laba5\laba5\obj\x86\Debug\laba5.exe
+E:\laba5\laba5\obj\x86\Debug\laba5.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_5\laba5\bin\Debug\laba5.exe.config
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_5\laba5\bin\Debug\laba5.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_5\laba5\bin\Debug\laba5.pdb
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_5\laba5\obj\x86\Debug\laba5.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_5\laba5\obj\x86\Debug\laba5.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_5\laba5\obj\x86\Debug\laba5.exe
+C:\Users\Alexander\Desktop\лабы\5 сем\СПП\labz\laba_5\laba5\obj\x86\Debug\laba5.pdb
